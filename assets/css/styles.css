@@ -1,5 +1,3 @@
-/* #FFAF14, #28B116, #F43947, #9CA2AD, #5F6575, #212325, #F9FBFE, #E5EAEF, #003CBF, #0560FD, #07CBFD */
-
 /* GOOGLE FONTS */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Titan+One&display=swap');
 
@@ -148,7 +146,7 @@ img {
 	cursor: pointer;
 }
 
-/* Navigation for Mobile DEvices */
+/* Navigation for Mobile Devices */
 @media screen and (max-width: 1150px) {
 	.nav_menu {
 		position: fixed;
